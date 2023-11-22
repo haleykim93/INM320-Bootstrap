@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap_asgmt",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "lite-server --baseDir=\"public\""
+  },
+  "author": "Haley Kim, Namju Lee",
+  "license": "private",
+  "private": true,
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
